@@ -1,2 +1,6 @@
 # Miner-game
-Console miner game cpp
+
+install:
+```
+Cmake
+```
